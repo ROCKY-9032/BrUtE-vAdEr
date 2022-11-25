@@ -12,7 +12,7 @@ Password zipfile cracker
 
 # Requirements:
 
--> For requirements and dependencies no worries, just run the main.py it will take care of that.
+-> For requirements and dependencies no worries, just run the Main.py it will take care of that.
 
 
 PROCESS:
