@@ -9,7 +9,10 @@ Password zipfile cracker
 
 ->It requires a wordlist to perform the bruteforce attack .In case if you do nat have any wordlists with you you can create a wordlist inside this program.
 
-->All the requirements can be downloaded once you run the python app but you should install python on your machine.
+
+# Requirements:
+
+-> For requirements and dependencies no worries, just run the main.py it will take care of that.
 
 
 PROCESS:
