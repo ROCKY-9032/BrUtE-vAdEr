@@ -20,9 +20,9 @@ PROCESS:
 
 -> First download the program and run it from the cmd.
 
--> Then chosse the required option if you have a wordlist then directly go for bruteforce.
+-> Then choose the required option, if you have a wordlist then directly go for bruteforce.
 
--> If you dont have a wordlist then create it by selecting the choice from the program.
+-> If you dont have a wordlist then create it by selecting the required choice from the program.
 
 
 # Screenshot:
